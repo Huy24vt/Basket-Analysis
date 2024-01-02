@@ -3,7 +3,7 @@
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendation](#recommendation)
+- [Results](#results)
   
 ### Prorject Overview
 This analysis aims to boost sales by gaining a deeper understanding of customer purchasing patterns, enabling the business to enhance cross-selling strategies.
@@ -46,14 +46,10 @@ To perform basket analysis, we will need to caculate 3 mains metrics: Support, C
 I will use Apriori and Association_Rules to caculate these metrics.
 
 ### Results
- [You can view the dashboard here](https://app.powerbi.com/view?r=eyJrIjoiYTI3ZjM1YTItZjlhOS00MzY3LWFkMzQtMzA2ZTIzNjYzNGQyIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9)
- 
- The analysis results are summarized as follow:
- 1. A very good metric is that the top 20% of customers contribute to nearly 80% of the revenue.
- 2. To reach the 80-20 gold metric, our target should be these customers.
- 3. The business is experiencing positive momentum and is prepared to expand its customer base.
+ [You can view the dashboard here](https://app.powerbi.com/view?r=eyJrIjoiMWI4YzYyY2QtZmI2ZC00OTk3LWFmYjUtYTYwMGMyMjkzMDc0IiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9)
 
- ### Recommendation
- 1. Invest in understanding customers' needs, preferences, and behaviors.
- 2. Identify new opportunities and potential threats in the market.
- 3. Strategic alliances can open up new markets or enhance product/service offerings.
+<img width="610" alt="image" src="https://github.com/Huy24vt/Basket-Analysis/assets/130732635/d0967207-9f87-4c2b-9926-0adc4838e7c0">
+
+ 
+In performing basket analysis, businesses gain insights into the relationships between products, enabling them to implement effective cross-selling strategies or create enticing product combos to boost sales revenue. Furthermore, this information empowers businesses to optimize the layout of their stores, strategically placing products for enhanced sales performance.
+
